@@ -33,7 +33,7 @@ package HD
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   
-  <a href="https://www.tiktok.com/@nguyenphucdevv/" target="blank">
+  <a href="https://www.tiktok.com/@nguyenphucdevv?lang=vi-VN" target="blank">
     <img align="center"src="https://img.icons8.com/bubbles/100/000000/tiktok.png"/>
   </a>
   

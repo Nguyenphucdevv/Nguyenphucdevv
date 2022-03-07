@@ -124,53 +124,53 @@ package HD
  
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Nguyenphuc20030605}/count.svg" alt="Nguyenphuc20030605 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Nguyenphucdevv}/count.svg" alt="Nguyenphucdevv :: Visitor's Count" /></p>
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
+## <p align="center">🏆</GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=Nguyenphuc20030605&theme=juicyfresh&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/)/?username=Nguyenphucdevv&theme=juicyfresh&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenphuc20030605&langs_count=10&theme=tokyonight&layout=compact" alt="Nguyenphuc20030605 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenphucdevv&langs_count=10&theme=tokyonight&layout=compact" alt="Nguyenphucdevv :: Top Langs" /></p>
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Profile stats :musical_keyboard:</p>
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyenphuc20030605&show_icons=true&theme=onedark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenphuc20030605&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyenphucdevv&show_icons=true&theme=onedark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenphucdevv&theme=onedark&hide_border=true" />
   </a>
 </p>
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/Nguyenphuc20030605/ChatBot">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="Nguyenphuc20030605" />
+<a href="https://github.com/Nguyenphucdevv/ChatBot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="Nguyenphucdevv" />
 </a>
 	
-<a href="https://github.com/HDuong1803/DataStructs">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=DataStructs&theme=tokyonight" alt="Nguyenphuc20030605" />
+<a href="https://github.com/Nguyenphucdevv/DataStructs">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphucdevv&repo=DataStructs&theme=tokyonight" alt="Nguyenphucdevv" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/Nguyenphuc20030605/Library_Aplication" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphuc20030605" />
+<a href="https://github.com/Nguyenphucdevv/Library_Aplication" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphucdevv&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphucdevv" />
 </a>
 	
-<a href="https://github.com/Nguyenphuc20030605/LunarVim-config">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=LunarVim-config&theme=tokyonight" alt="Nguyenphuc20030605" />
+<a href="https://github.com/Nguyenphucdevv/LunarVim-config">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphucdevv&repo=LunarVim-config&theme=tokyonight" alt="Nguyenphucdevv" />
 </a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=Nguyenphuc20030605&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Nguyenphucdevv&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -179,7 +179,7 @@ package HD
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
 	
-<img src="https://github.com/Nguyenphuc20030605/Nguyenphuc20030605/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Nguyenphucdevv/Nguyenphucdevv/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>

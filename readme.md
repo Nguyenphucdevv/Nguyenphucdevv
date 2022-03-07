@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">
-  𝓓𝓸 𝓗𝓪𝓲 𝓓𝓾𝓸𝓷𝓰  
+  𝓝𝓰𝓾𝔂𝓮𝓷 𝓥𝓪𝓷 𝓟𝓱𝓾𝓬
 </h1>
 
 <p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" height="300" width="500"></p>
@@ -13,10 +13,10 @@ package HD
     {
         public static void main(String[]args)
         {
-            String Name = "Do Hai Duong";
-            String Age = "2003";
+            String Name = "Nguyen Van Phuc";
+            String Age = "18";
             String Gender = "Male";
-            String Address = "Hung Yen, Viet Nam";
+            String Address = "Quang Yen, Viet Nam";
             String University = "Hanoi University of Mining and Geology - HUMG";
             String Skills = "C, C++, HTML, CSS, JavaScript, Java, MySQL";
             String FamousQuotes = "A winner never stops trying!";
@@ -29,25 +29,22 @@ package HD
 
 ## <p align="center"> 👽 Connect with me 👽</p>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100027635901109" target="blank">
+  <a href="https://www.facebook.com/homthucuaphucc2003/" target="blank">
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   
-  <a href="https://www.linkedin.com/in/hai-duong-57447b21b/" target="blank">
-    <img align="center" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
+  <a href="https://www.tiktok.com/@phucnguyenn.23/" target="blank">
+    <img align="center" src="https://bitly.com.vn/stats/xukyyo/linkedin.png" />
   </a>
   
-  <a href="https://dev.to/hduong1803" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" width="81"/>
+  <a href="https://www.instagram.com/phucnguyenn.203/">
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   
-  <a href="https://twitter.com/haiduongdev" target="blank">
+  <a href="https://twitter.com/Nguyenphucdevv" target="blank">
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
   </a>
   
-  <a href="https://www.instagram.com/_hduonggg_183_/" target="blank">
-    <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
-  </a>
   
   ---
 	
@@ -127,53 +124,53 @@ package HD
  
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{HDuong1803}/count.svg" alt="HDuong1803 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Nguyenphuc20030605}/count.svg" alt="Nguyenphuc20030605 :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=HDuong1803&theme=juicyfresh&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=Nguyenphuc20030605&theme=juicyfresh&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&langs_count=10&theme=tokyonight&layout=compact" alt="HDuong1803 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenphuc20030605&langs_count=10&theme=tokyonight&layout=compact" alt="Nguyenphuc20030605 :: Top Langs" /></p>
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Profile stats :musical_keyboard:</p>
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyenphuc20030605&show_icons=true&theme=onedark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenphuc20030605&theme=onedark&hide_border=true" />
   </a>
 </p>
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/HDuong1803/ChatBot">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="HDuong1803" />
+<a href="https://github.com/Nguyenphuc20030605/ChatBot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="Nguyenphuc20030605" />
 </a>
 	
 <a href="https://github.com/HDuong1803/DataStructs">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=DataStructs&theme=tokyonight" alt="HDUong1803" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=DataStructs&theme=tokyonight" alt="Nguyenphuc20030605" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/HDuong1803/Library_Aplication" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=Library_Aplication&theme=tokyonight" alt="HDuong1803" />
+<a href="https://github.com/Nguyenphuc20030605/Library_Aplication" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphuc20030605" />
 </a>
 	
-<a href="https://github.com/HDuong1803/LunarVim-config">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LunarVim-config&theme=tokyonight" alt="HDuong1803" />
+<a href="https://github.com/Nguyenphuc20030605/LunarVim-config">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphuc20030605&repo=LunarVim-config&theme=tokyonight" alt="Nguyenphuc20030605" />
 </a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=HDuong1803&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Nguyenphuc20030605&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -182,7 +179,7 @@ package HD
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
 	
-<img src="https://github.com/HDuong1803/HDuong1803/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Nguyenphuc20030605/Nguyenphuc20030605/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>

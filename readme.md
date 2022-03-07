@@ -34,7 +34,7 @@ package HD
   </a>
   
   <a href="https://www.tiktok.com/@phucnguyenn.23/" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
+    <img align="center" src="https://<img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>" />
   </a>
   
   <a href="https://www.instagram.com/phucnguyenn.203/">

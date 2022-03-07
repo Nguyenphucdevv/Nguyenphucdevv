@@ -34,7 +34,7 @@ package HD
   </a>
   
   <a href="https://www.tiktok.com/@phucnguyenn.23/" target="blank">
-    <img align="center" src="https://bitly.com.vn/stats/xukyyo/linkedin.png" />
+    <img align="center" src="https://bitly.com.vn/stats/029ksq" />
   </a>
   
   <a href="https://www.instagram.com/phucnguyenn.203/">

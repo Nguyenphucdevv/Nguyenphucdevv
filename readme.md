@@ -126,10 +126,10 @@ package HD
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Nguyenphucdevv}/count.svg" alt="Nguyenphucdevv :: Visitor's Count" /></p>
 
-## <p align="center">🏆</GitHub Profile Trophy 🏆</p>
+## <p align="center">🏆GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app//?username=Nguyenphucdevv&theme=juicyfresh&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app//?username=Nguyenphucdevv">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>

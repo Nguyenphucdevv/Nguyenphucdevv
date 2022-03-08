@@ -141,11 +141,11 @@ package HD
 <p align="center">
   <a href="https://abhigyantrips.dev/">
   <img src="https://github-readme-stats.vercel.app/api?username=Nguyenphucdevv&show_icons=true&theme=onedark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenphucdevv&theme=onedark&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenphucdevv&theme=onedark&hide_border=true" />
   </a>
 </p>
 
-## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
+## <p align="left"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
 <a href="https://github.com/Nguyenphucdevv/ChatBot">

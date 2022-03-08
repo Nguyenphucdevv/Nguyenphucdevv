@@ -145,7 +145,7 @@ package HD
   </a>
 </p>
 
-## <p align="left"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
 <a href="https://github.com/Nguyenphucdevv/ChatBot">
@@ -159,7 +159,7 @@ package HD
 
 <p align="center">	
 <a href="https://github.com/Nguyenphucdevv/Library_Aplication" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphucdevv&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphucdevv" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/username=Nguyenphucdevv&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphucdevv" />
 </a>
 	
 <a href="https://github.com/Nguyenphucdevv/LunarVim-config">
@@ -176,10 +176,10 @@ package HD
 <hr>
 <br>
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
+## <p align="center">Chào mừng bạn đến với chúng tôi  🐍</p>
+<p 
 	
-<img src="https://github.com/Nguyenphucdevv/Nguyenphucdevv/blob/output/github-contribution-grid-snake.svg">
+<img align="center" src="https://www.facebook.com/photo/?fbid=568566303902795&set=pob.100022482923279/bubbles/100/000000/facebook-new.png" />
 </p>
 
 <hr>

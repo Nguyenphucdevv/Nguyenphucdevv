@@ -157,13 +157,8 @@ package HD
 </a>
 </p>
 
-<p align="center">	
-<a href="https://github.com/Nguyenphucdevv/Library_Aplication" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/username=Nguyenphucdevv&repo=Library_Aplication&theme=tokyonight" alt="Nguyenphucdevv" />
-</a>
 	
-<a href="https://github.com/Nguyenphucdevv/LunarVim-config">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyenphucdevv&repo=LunarVim-config&theme=tokyonight" alt="Nguyenphucdevv" />
+
 </a>
 </p>
 
@@ -179,9 +174,10 @@ package HD
 ## <p align="center">Chào mừng bạn đến với chúng tôi  🐍</p>
 <p align="center">
   <a href="" target="blank">
-    <img align="center" src="https://www.facebook.com/photo?fbid=756404049083350&set=a.114558989934529" />
+
 </a>
 </p>
 
 <hr>
-<br>
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/96108907/157479237-b094f8d6-594e-49f5-af40-59b964b5c5ff.jpg" alt="img" width="300">

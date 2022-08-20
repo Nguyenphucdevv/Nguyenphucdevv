@@ -29,7 +29,7 @@ package HD
 
 ## <p align="center"> 👽 Connect with me 👽</p>
 <p align="center">
-  <a href="https://www.facebook.com/homthucuaphucc2003/" target="blank">
+  <a href="https://www.facebook.com/nguyenphucdevv/" target="blank">
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   
@@ -37,12 +37,8 @@ package HD
     <img align="center"src="https://img.icons8.com/bubbles/100/000000/tiktok.png"/>
   </a>
   
-  <a href="https://www.instagram.com/phucnguyenn.203/">
+  <a href="https://www.instagram.com/nguyenphucdevv/">
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
-  </a>
-  
-  <a href="https://twitter.com/Nguyenphucdevv" target="blank">
-    <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
   </a>
   
   

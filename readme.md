@@ -2,7 +2,7 @@
   𝓝𝓰𝓾𝔂𝓮𝓷 𝓥𝓪𝓷 𝓟𝓱𝓾𝓬
 </h1>
 
-<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" height="300" width="500"></p>
+<p align="center"><img src="https://i.pinimg.com/564x/b5/c6/c9/b5c6c9fa6c1c82917b2c9e835b7be485.jpg" height="500" width="500"></p>
 
 ---
 
